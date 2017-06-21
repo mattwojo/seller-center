@@ -1,1 +1,2 @@
-# Welcome to seller-center!
+# Seller Center documentation
+Coming soon!
