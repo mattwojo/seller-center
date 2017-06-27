@@ -12,46 +12,54 @@ keywords: payment
 
 # Merchant FAQ
 
-Answers to frequently asked questions about merchant accounts and Seller Center.
+Here are answers to frequently asked questions about merchant accounts and Seller Center.
 
 
 ## How do I connect payments to my business?
 
-Once you have reached Microsoft’s Seller Center, complete your Seller Center registration by entering the information requested.. Once the Seller Center registration information has been completed and you have accepted the Terms of Service, you will be to go to the payment service provider website. From there, you will be able to create a merchant account with the payment service provider or authenticate and connect toyour existing merchant account you have with the payment service provider for use with your business running on a Microsoft offering. 
+Go to [Seller Center](https://seller.microsoft.com) and select the **Register** link for the program of your choice (Note: You don’t need to register to sell through Microsoft Edge). Enter your registration info and accept the Terms of Service. Follow the prompts to create a new merchant account with a payment service provider or connect your existing merchant account with a payment service provider. 
 
 You may be required to provide the following information for Seller Center registration: 
 * Business name 
-* Business address,  
+* Business address  
 * Contact information 
 * Business website address 
 
 If you need to create a merchant account with a payment service provider, you may be required to provide the following information to acquire a merchant account: 
 * Personal information 
 * Business information 
-* Valid US bank account details 
+* Valid United States bank account details 
 * Tax identity information 
 
 
 ## How do I manage my Seller Center information?
 
-You can go to Dashboard  at Microsoft Seller Center to check the status of your Seller Center registration and the state of the connection of your merchant account to Microsoft. You may also be able to access a link to your payment service provider for activity information, initiate a refund, dispute a chargeback and inquire about your payout. 
+Go to [Seller Center](https://seller.microsoft.com) and select **Dashboard** (in the upper-right corner of the page). On the dashboard, you can: 
 
-For questions regarding your merchant account, its terms or activity, please contact your payment service provider.
+* Check the status of your Seller Center registration
+* Check the status of the connection of your merchant account to Microsoft
+* If available, access a link to your payment service provider where you can view for activity information, initiate a refund, dispute a chargeback, and inquire about your payout.
+
+If you have question about your merchant account, its terms, or activity, please contact your payment service provider.  
+
 
 
 ## How do I disconnect my merchant account with Seller Center?
 
-You can disconnect your merchant account through your Payment Service Provider portal or by contacting your Payment Service Provider accessing a link on your Account Details page accessible through the Seller Center Dashboard.
+To disconnect your merchant account, go to [Seller Center](https://seller.microsoft.com) and select **Dashboard** (in the upper-right corner of the page). On the **Account details** page, select the **Disconnect merchant** link.
+
+You can also disconnect your merchant account by going to your payment service provider’s website.
+
 
 
 ## What countries are supported?
 
-As of now, only US individuals or entities domiciled  Sellers can register on Seller Center.
+Currently, only individuals or entities in the United States can register with Seller Center.
 
 
-## What if I already have a Developer or Creator account? 
+## What if I already have an account with Dev Center? 
 
-You will still be required to verify or complete information in the Seller Center registration form and accept the Seller Center Terms of Service. You will only be able to associate or create a merchant account through Seller Center. If you need to view all the programs you are affiliated with, go to the Dashboard link.
+You will still be required to verify or complete information in the Seller Center registration form and accept the Seller Center Terms of Service. You will only be able to associate or create a merchant account through Seller Center. If you need to view the programs you are affiliated with, go to [Seller Center](https://seller.microsoft.com) and select **Dashboard** (in the upper-right corner of the page).
 
 
 
