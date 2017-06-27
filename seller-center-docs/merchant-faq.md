@@ -17,7 +17,7 @@ Here are answers to frequently asked questions about merchant accounts and Selle
 
 ## How do I connect payments to my business?
 
-Go to [Seller Center](https://seller.microsoft.com) and select the **Register** link for the program of your choice (Note: You don’t need to register to sell through Microsoft Edge). Enter your registration info and accept the Terms of Service. Follow the prompts to create a new merchant account with a payment service provider or connect your existing merchant account with a payment service provider. 
+Go to [Seller Center](https://seller.microsoft.com) and select the **Register your merchant account** link for the program of your choice (Note: You don’t need to register to sell through Microsoft Edge). Enter your registration info and accept the Terms of Service. Follow the prompts to create a new merchant account with a payment service provider or connect your existing merchant account with a payment service provider. 
 
 You may be required to provide the following information for Seller Center registration: 
 * Business name 
@@ -38,7 +38,7 @@ Go to [Seller Center](https://seller.microsoft.com) and select **Dashboard** (in
 
 * Check the status of your Seller Center registration
 * Check the status of the connection of your merchant account to Microsoft
-* If available, access a link to your payment service provider where you can view for activity information, initiate a refund, dispute a chargeback, and inquire about your payout.
+* If available, access a link to your payment service provider where you can view activity information, initiate a refund, dispute a chargeback, and inquire about your payout.
 
 If you have question about your merchant account, its terms, or activity, please contact your payment service provider.  
 
