@@ -1,17 +1,17 @@
 ---
 layout: LandingPage
-description: Documentation for Microsoft Seller Center
-title: Microsoft Seller Center documentation
+description: Documentation for Seller Center
+title: Seller Center documentation
 author: mattwojo
 ms.author: mattwoj
 ms.date: 06/29/2017
 ms.prod: seller
 ms.topic: article
-keywords: microsoft seller, microsoft seller center, sell digital items, sell in uwp apps
+keywords: payment, merchant
 ---
 
 # Seller Center documentation
-If you’re registered with Microsoft Seller Center, you can sell digital and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, the Bot Framework, and Microsoft Bookings.
+If you’re registered with Seller Center, you can sell digital and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, the Microsoft Bot Framework, and Microsoft Bookings.
 
 <ul class="panelContent cardsFTitle">
     <li>

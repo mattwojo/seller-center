@@ -12,7 +12,7 @@ keywords: payment, register, merchant
 
 # Get started with Seller Center
 
-Get set up for selling digital and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, the Microsoft Bot Framework, and Microsoft Bookings.
+Here's how to get set up for selling digital and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, the Microsoft Bot Framework, and Microsoft Bookings.
 
 1. Go to [Seller Center](https://seller.microsoft.com).
 2. Select the **Register your merchant account** link for the program of your choice. (Note: You don’t need to register on Seller Center to sell through Microsoft Edge.)
