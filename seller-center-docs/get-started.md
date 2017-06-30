@@ -15,7 +15,7 @@ keywords: payment, register, merchant
 Here's how to get set up for selling services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, the Microsoft Bot Framework, and Microsoft Bookings.
 
 1. Go to [Seller Center](https://seller.microsoft.com).
-2. Select the **Register your merchant account** link for the program of your choice. (Note: You don’t need to register on Seller Center to sell through Microsoft Edge. To sell through Microsoft Bookings, you must register through the Bookings site or app.)
+2. Select the **Register your merchant account** link for the program of your choice. (Note: You don’t need to register on Seller Center to sell through Microsoft Edge. To sell through Microsoft Bookings, go to [Bookings](https://office.com/bookings).)
 3. Enter your registration info and accept the Terms of Service.
 4. Follow the prompts to connect a new or existing merchant account to a payment service provider.
 5. To manage your account later, select **Dashboard** (on the upper-right corner of [Seller Center](https://seller.microsoft.com).)
