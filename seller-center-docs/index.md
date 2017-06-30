@@ -11,7 +11,7 @@ keywords: payment, merchant
 ---
 
 # Seller Center documentation
-If you’re registered with Seller Center, you can sell digital and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, the Microsoft Bot Framework, and Microsoft Bookings.
+If you’re registered with Seller Center, you can sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, the Microsoft Bot Framework, and Microsoft Bookings.
 
 <ul class="panelContent cardsFTitle">
     <li>
