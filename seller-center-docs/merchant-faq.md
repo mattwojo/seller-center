@@ -17,7 +17,7 @@ Here are answers to frequently asked questions about merchant accounts and Selle
 
 ## How do I connect payments to my business?
 
-Go to [Seller Center](https://seller.microsoft.com) and select the **Register your merchant account** link for the program of your choice. (Note: You don’t need to register to sell through Microsoft Edge. To sell through Microsoft Bookings, go to [Bookings](https://office.com/bookings).) Enter your registration info and accept the Terms of Service. Follow the prompts to connect a new or existing merchant account to a payment service provider. 
+Go to [Seller Center](https://seller.microsoft.com) and select the **Register your merchant account** link for the program of your choice. (Note: You don’t need to register to sell through Microsoft Edge.) Enter your registration info and accept the Terms of Service. Follow the prompts to connect a new or existing merchant account to a payment service provider. 
 
 You may be required to provide the following information for Seller Center registration: 
 * Business name 
