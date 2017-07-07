@@ -68,4 +68,22 @@ If you’re registered with Seller Center, you can sell services and physical it
         </div>
         </a>
     </li>
+    <li>
+        <a href="//seller.microsoft.com/seller/support">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_support.svg" alt="Support Icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Support</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
   </ul>
