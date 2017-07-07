@@ -6,6 +6,7 @@ author: mattwojo
 ms.author: mattwoj
 ms.date: 06/29/2017
 ms.prod: seller
+ms.technology: seller-center
 ms.topic: article
 keywords: payment, merchant
 ---
