@@ -39,7 +39,7 @@ If you’re registered with Seller Center, you can sell services and physical it
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_support.svg" alt="Merchant FAQ Icon" />
+                            <img src="/media/common/i_article.svg" alt="Merchant FAQ Icon" />
                         </div>
                     </div>
                     <div class="cardText">
