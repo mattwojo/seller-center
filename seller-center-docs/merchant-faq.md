@@ -48,6 +48,9 @@ If you have question about your merchant account, its terms, or activity, please
 
 To disconnect your merchant account, go to [Seller Center](https://seller.microsoft.com) and select **Dashboard** (in the upper-right corner of the page). On the **Account details** page, select the **Disconnect merchant** link.
 
+> [!WARNING]
+> For WePay merchant accounts, when you disconnect you will permanently lose access to your account and all of the information in it. Please make sure you have all of the information you need about the activity in the account before you close it.
+
 You can also disconnect your merchant account by going to your payment service provider’s website (Note: This is not applicable to WePay merchant accounts).
 
 
