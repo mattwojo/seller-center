@@ -1,11 +1,11 @@
 ---
 layout: LandingPage
-description: Documentation for Seller Center
+description: Learn how you can sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft Bot Framework as a registered member of Seller Center.
 title: Seller Center documentation
-author: mattwojo
-ms.author: mattwoj
+author: johnshaw
+ms.author: johnshaw
 ms.date: 06/29/2017
-ms.prod: seller
+ms.prod: seller-center
 ms.technology: seller-center
 ms.topic: article
 keywords: payment, merchant
