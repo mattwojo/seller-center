@@ -6,7 +6,7 @@ ms.author: johnshaw
 ms.date: 06/26/2017
 ms.topic: article
 ms.prod: seller-center
-ms.technology: seller-center
+ms.technology:
 keywords: payment, register, merchant
 ---
 

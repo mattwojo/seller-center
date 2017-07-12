@@ -6,7 +6,7 @@ author: johnshaw
 ms.author: johnshaw
 ms.date: 06/29/2017
 ms.prod: seller-center
-ms.technology: seller-center
+ms.technology:
 ms.topic: article
 keywords: payment, merchant
 ---
