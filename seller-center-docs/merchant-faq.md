@@ -3,7 +3,7 @@ title: Merchant FAQ
 description: Answers to frequently asked questions about merchant accounts and Seller Center. 
 author: shawjohn
 ms.author: johnshaw
-ms.date: 06/26/2017
+ms.date: 07/11/2017
 ms.topic: article
 ms.prod: seller-center
 ms.technology:

@@ -3,7 +3,7 @@ title: Get started with Seller Center
 description: Get set up for selling items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft Bot Framework. 
 author: shawjohn
 ms.author: johnshaw
-ms.date: 06/26/2017
+ms.date: 07/11/2017
 ms.topic: article
 ms.prod: seller-center
 ms.technology:

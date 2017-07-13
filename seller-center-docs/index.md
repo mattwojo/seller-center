@@ -4,7 +4,7 @@ description: Learn how you can sell services and physical items in Universal Win
 title: Seller Center documentation
 author: johnshaw
 ms.author: johnshaw
-ms.date: 06/29/2017
+ms.date: 07/11/2017
 ms.prod: seller-center
 ms.technology:
 ms.topic: article
@@ -70,7 +70,7 @@ If you’re registered with Seller Center, you can sell services and physical it
         </a>
     </li>
     <li>
-        <a href="//seller.microsoft-int.com/en-us/seller/support?setvar=fltpreview:1">
+        <a href="//seller.microsoft.com/seller/support">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
