@@ -15,24 +15,7 @@ keywords: payment, merchant
 If you’re registered with Seller Center, you can sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft Bot Framework.
 
 <ul class="panelContent cardsFTitle">
-    <li>
-        <a href="./get-started.md">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_get-started.svg" alt="Get Started Icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Get started</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
+   
     <li>
         <a href="./merchant-faq.md">
         <div class="cardSize">
