@@ -53,7 +53,7 @@ If you’re registered with Seller Center, you can sell services and physical it
         </a>
     </li>
     <li>
-        <a href="//seller.microsoft.com/seller/support">
+        <a href="//seller.microsoft.com">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
