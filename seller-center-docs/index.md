@@ -1,18 +1,18 @@
 ---
 layout: LandingPage
-description: Learn how you can sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft Bot Framework as a registered member of Seller Center.
+description: Learn how to sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft Bot Framework using Microsoft Pay and Seller Center.
 title: Seller Center documentation
 author: johnshaw
 ms.author: johnshaw
-ms.date: 07/11/2017
+ms.date: 10/30/2017
 ms.prod: seller-center
 ms.technology:
 ms.topic: article
-keywords: payment, merchant
+keywords: payment, merchant, Microsoft Pay
 ---
 
 # Seller Center documentation
-If you’re registered with Seller Center, you can sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft Bot Framework.
+If you’re registered with Seller Center, you can sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft Bot Framework using Microsoft Pay.
 
 <ul class="panelContent cardsFTitle">
    
