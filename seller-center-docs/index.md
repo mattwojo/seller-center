@@ -7,7 +7,7 @@ ms.author: johnshaw
 ms.date: 10/30/2017
 ms.prod: seller-center
 ms.technology:
-ms.topic: article
+ms.topic: landing-page
 keywords: payment, merchant, Microsoft Pay
 ---
 
