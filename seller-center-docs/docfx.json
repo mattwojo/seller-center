@@ -36,6 +36,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "seller-center"
+    "dest": "seller-center",
+    "markdownEngineName": "markdig"
   }
 }
