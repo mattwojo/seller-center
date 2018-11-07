@@ -32,7 +32,8 @@
     "globalMetadata": {
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/seller-center",
-      "feedback_product_url": "https://github.com/MicrosoftDocs/seller-center/issues"
+      "feedback_product_url": "https://github.com/MicrosoftDocs/seller-center/issues",
+      "ms.prod" : "seller-center"
     },
     "fileMetadata": {},
     "template": [],
