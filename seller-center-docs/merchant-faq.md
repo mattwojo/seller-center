@@ -5,8 +5,6 @@ author: shawjohn
 ms.author: johnshaw
 ms.date: 07/11/2017
 ms.topic: article
-ms.prod: seller-center
-ms.technology:
 keywords: payment
 ---
 
