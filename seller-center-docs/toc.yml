@@ -1,5 +1,5 @@
 - name: Overview
-  href: index.md
+  href: index.yml
   items: 
   - name: Get Started
     href: ./get-started.md

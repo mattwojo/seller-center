@@ -1,0 +1,31 @@
+### YamlMime:Landing
+
+title: Seller Center documentation
+summary: If you’re registered with Seller Center, you can sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft Bot Framework using Microsoft Pay. 
+
+metadata:
+  title: Seller Center documentation
+  description: Learn how to sell services and physical items in Universal Windows Platform (UWP) apps, Microsoft Edge, and the Microsoft.
+  ms.service: seller-center
+  ms.topic: landing-page # Required
+  author: chenhao2020 
+  ms.author: v-chenha 
+  ms.date: 03/18/2020 
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+  # Card (optional)
+  - title: Merchant FAQ
+      - linkListType: overview
+        links:
+          - text: Frequently asked questions about merchant accounts and Seller Center
+            url: ./merchant-faq.md
+          - text: Learn more about Seller Center
+            url: https://www.microsoft.com/en-us/payments/merchants
+
+
+
+
