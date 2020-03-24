@@ -3,7 +3,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -11,8 +12,16 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "**/xrefmap.yml",
+          "**/toc.yml"
         ]
+      },
+      {
+        "files": [
+          "**/toc.yml"
+        ],
+        "dest": "seller_center_toc"
       }
     ],
     "resource": [

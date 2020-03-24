@@ -1,7 +1,5 @@
 - name: Overview
   href: index.yml
   items: 
-  - name: Get Started
-    href: ./get-started.md
   - name: Merchant FAQ
     href: ./merchant-faq.md

@@ -19,6 +19,7 @@ landingContent:
 # Start card title with a verb
   # Card (optional)
   - title: Merchant FAQ
+    linkLists:
       - linkListType: overview
         links:
           - text: Frequently asked questions about merchant accounts and Seller Center
