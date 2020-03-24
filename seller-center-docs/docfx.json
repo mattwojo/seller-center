@@ -12,7 +12,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "**/xrefmap.yml"
         ]
       }
     ],
