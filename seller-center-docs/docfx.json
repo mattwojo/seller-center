@@ -13,8 +13,15 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices",
-          "**/xrefmap.yml"
+          "**/xrefmap.yml",
+          "**/toc.yml"
         ]
+      },
+      {
+        "files": [
+          "**/toc.yml"
+        ],
+        "dest": "seller_center_toc"
       }
     ],
     "resource": [
